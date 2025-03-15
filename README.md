@@ -1,3 +1,4 @@
+Go to [English version](#english-version)
 # Ogólne informacje
 Projekt realizuje prostą implementację aplikacji CRUD (Create, Read, Update, Delete), która służy do zarządzania 
 potencjalną bazą danych biblioteki (baza danych w przypadku tego projektu zawiera informacje o dostępnych 
@@ -21,6 +22,8 @@ oraz zabezpieczenia przed błędami. Plik trzeci skupia się na organizacji dzia
 z implementacją interfejsu konsolowego. W apliakcji dane wprowdzane, są wprowadzane interaktywnie przez 
 użytkownika. Do prawidłowego działania programu wymagana jest lokalna instalacja PostgreSQL oraz konfiguracja 
 parametrów połączenia. SQLAlchemy automatycznie tworzy odpowiednie tabele w bazie danych po uruchomieniu programu.
+
+# English version
 
 # General Information  
 The project implements a simple CRUD (Create, Read, Update, Delete) application for managing a potential 
